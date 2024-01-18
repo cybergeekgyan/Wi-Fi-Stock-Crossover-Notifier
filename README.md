@@ -1,15 +1,15 @@
-<a href="https://github.com/OrbiGenAI-Innovations-Lab">
+<a href="https://github.com/cybergeekgyan">
   <h1 align="center">Wi-Fi Stock Crossover Notifier</h1>
 </a>
 
 The Wi-Fi Stock Crossover Notifier is an Arduino-based project that monitors stock data in real-time and sends email notifications when specific moving average crossovers occur. The project focuses on short-term investing using the 9 & 21 EMA crossover and long-term investing using the 50 & 200 SMA crossover strategies.
 
 <p align="center">
-  <a href="https://twitter.com/orbigenai">
+  <a href="https://twitter.com/cybergeekgyan">
     <img src="https://img.shields.io/twitter/follow/cybergeekgyan?style=flat&label=cybergeekgyan&logo=twitter&color=0bf&logoColor=fff" alt="Twitter" />
   </a>
-  <a href="https://github.com/OrbiGenAI-Innovations-Lab/VideoBrief/blob/main/LICENSE.md">
-    <img src="https://img.shields.io/github/license/OrbiGenAI-Innovations-Lab/VideoBrief?label=license&logo=github&color=f80&logoColor=fff" alt="License" />
+  <a href="https://github.com/cybergeekgyan/Wi-Fi-Stock-Crossover-Notifier/blob/main/LICENSE.md">
+    <img src="https://img.shields.io/github/license/cybergeekgyan/Wi-Fi-Stock-Crossover-Notifier?label=license&logo=github&color=f80&logoColor=fff" alt="License" />
   </a>
 </p>
 
